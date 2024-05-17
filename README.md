@@ -5,7 +5,7 @@ Godot 4.2.2
 scene = prefab  
 CharacterBody2D 玩家 Ordering 繪製優先Index Collision Layer碰撞體層 GDSCript移動樣板  
 AnimatedSprite2D 動畫Sprite  
-CollisionShape2D 碰撞體設定 可自訂形狀 WorldBoundaryShape無限延伸 _on_body_entered碰撞判定  
+CollisionShape2D 碰撞體設定 可自訂形狀 OneWayCollision單面穿透 WorldBoundaryShape無限延伸 _on_body_entered碰撞判定  
 Camera2D 攝影機 Limit設定活動範圍 PositionSmoothing/Smoothing平滑  
 TileMap 繪製地形 碰撞體添加 自定義碰撞體 不同層繪製  
 StaticBody2D  
